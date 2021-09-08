@@ -12,7 +12,9 @@ A simple responsive web page that uses html and css only to show how the user in
 
 - **Artist Page** is available, clicking on floating images will redirect it to the artist page.
 - **Navigation Tab** turs to menu option, if page width is decreased.
-   
+
+### Demo Images
+<img src="https://github.com/erasedbeyond/MusicPlayerApp/blob/master/Demo%20Image.png?raw=true">
 
 
 
